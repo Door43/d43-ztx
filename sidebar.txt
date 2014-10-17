@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ztx:home|Door43 (ztx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ztx|d43-ztx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ztx/archive/master.zip|d43-ztx.zip]]
+
+**Recent Changes**
+{{changes>ns = ztx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ztx|Ethnologue data]]
+
